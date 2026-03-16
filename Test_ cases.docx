@@ -1,0 +1,16 @@
+Test Case ID
+Test Scenario
+Steps
+Expected Result
+TC01
+Login with valid data
+Enter username & password
+Login successful
+TC02
+Login with wrong password
+Enter wrong password
+Error message shown
+TC03
+Empty fields
+Click login without data
+Validation message
