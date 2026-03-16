@@ -1,0 +1,8 @@
+Bug ID: BUG01
+Title: Login button not working
+Steps to Reproduce
+Open login page
+Enter username and password
+Click login
+Expected Result: User should login
+Actual Result: Page not responding
